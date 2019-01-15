@@ -5,6 +5,8 @@ Calculation software developed by:
 Mikkel Dohm Andersen & Thomas Dyhr
 MSc in Architectural Engineering
 
+Co-author:
+Luisa Giuliani, Associate professor, Department of Civil Engineering, Technical University of Denmark
 
 June 2019
 
